@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FantasyFootball on eddie@fig.systems</title>
+    <link>http://10.0.0.51:1313/tags/fantasyfootball/</link>
+    <description>Recent content in FantasyFootball on eddie@fig.systems</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 11:00:43 -0700</lastBuildDate>
+    <atom:link href="http://10.0.0.51:1313/tags/fantasyfootball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantasy Football Draft Tools</title>
+      <link>http://10.0.0.51:1313/posts/projects/ffb/</link>
+      <pubDate>Thu, 29 Aug 2024 11:00:43 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/posts/projects/ffb/</guid>
+      <description>Draft Kit Beer Sheets is a tool I found online and everytime I feel like I&amp;rsquo;ve gotten good results off of it and good feed back from people I&amp;rsquo;ve recommneded it to.&#xA;The original creator moved on from the site this year but it was taken over by his team so it should still reliable.&#xA;Usage You can go to their main page and just copy over the settings from your league.</description>
+    </item>
+  </channel>
+</rss>

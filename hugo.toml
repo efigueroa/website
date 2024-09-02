@@ -1,0 +1,20 @@
+baseurl = "https://fig.systems"
+title = "eddie@fig.systems"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "Posts/"
+  url = "posts/"
+  
+  [[params.navlinks]]
+  name = "Contact/"
+  url = "contacting-me/"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on eddie@fig.systems</title>
+    <link>http://10.0.0.51:1313/categories/</link>
+    <description>Recent content in Categories on eddie@fig.systems</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 11:00:43 -0700</lastBuildDate>
+    <atom:link href="http://10.0.0.51:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FantasyFootball</title>
+      <link>http://10.0.0.51:1313/categories/fantasyfootball/</link>
+      <pubDate>Thu, 29 Aug 2024 11:00:43 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/categories/fantasyfootball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reference</title>
+      <link>http://10.0.0.51:1313/categories/reference/</link>
+      <pubDate>Thu, 29 Aug 2024 11:00:43 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/categories/reference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Selfhosted</title>
+      <link>http://10.0.0.51:1313/categories/selfhosted/</link>
+      <pubDate>Thu, 29 Aug 2024 10:57:05 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/categories/selfhosted/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server</title>
+      <link>http://10.0.0.51:1313/categories/server/</link>
+      <pubDate>Thu, 29 Aug 2024 10:57:05 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/categories/server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unraid</title>
+      <link>http://10.0.0.51:1313/categories/unraid/</link>
+      <pubDate>Thu, 29 Aug 2024 10:57:05 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/categories/unraid/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

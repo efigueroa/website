@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<h1>Fig.Systems</h1>
+
+<p>
+   {{ with .Site.GetPage "/about" }}
+        {{ .Content }}
+   {{ end }}
+
+</p>
+<br/>
+
+<h1>Latest posts</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+<h1>Tags</h1>
+
+{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+	  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+          <div class="tagbutton">
+		<a href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a>
+		<sup>{{$cnt}}</sup>
+          </div>
+	  {{end}}
+	{{end}}
+
+{{ end }}

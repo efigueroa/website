@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on eddie@fig.systems</title>
+    <link>http://10.0.0.51:1313/categories/server/</link>
+    <description>Recent content in Server on eddie@fig.systems</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 10:57:05 -0700</lastBuildDate>
+    <atom:link href="http://10.0.0.51:1313/categories/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self Hosting</title>
+      <link>http://10.0.0.51:1313/posts/stack/</link>
+      <pubDate>Thu, 29 Aug 2024 10:57:05 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/posts/stack/</guid>
+      <description>This is just a general overview of what I&amp;rsquo;m running. Updated sporadically, only includes things I&amp;rsquo;m actively using or have deployed.&#xA;Networking In Production Unifi UDM Pro 3 APs PoE and non-PoE switches A certain number and variety of cameras Services Self-hosted:&#xA;NGINX Proxy Manager Immich. Photo Backup. Paperless-NGX. Document storage Recipes. Recipes I&amp;rsquo;ve saved. DokuWiki. Personal wiki. MicroBin. &amp;ldquo;paste bin&amp;rdquo; share. FreshRSS. RSS agregator Forgejo. Git repos. Cloud Came from an azure shop years ago, current aws.</description>
+    </item>
+  </channel>
+</rss>

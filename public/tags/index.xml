@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on eddie@fig.systems</title>
+    <link>http://10.0.0.51:1313/tags/</link>
+    <description>Recent content in Tags on eddie@fig.systems</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 11:00:43 -0700</lastBuildDate>
+    <atom:link href="http://10.0.0.51:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FantasyFootball</title>
+      <link>http://10.0.0.51:1313/tags/fantasyfootball/</link>
+      <pubDate>Thu, 29 Aug 2024 11:00:43 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/tags/fantasyfootball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>http://10.0.0.51:1313/tags/index/</link>
+      <pubDate>Thu, 29 Aug 2024 11:00:43 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reference</title>
+      <link>http://10.0.0.51:1313/tags/reference/</link>
+      <pubDate>Thu, 29 Aug 2024 11:00:43 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/tags/reference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Selfhosted</title>
+      <link>http://10.0.0.51:1313/tags/selfhosted/</link>
+      <pubDate>Thu, 29 Aug 2024 10:57:05 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/tags/selfhosted/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server</title>
+      <link>http://10.0.0.51:1313/tags/server/</link>
+      <pubDate>Thu, 29 Aug 2024 10:57:05 -0700</pubDate>
+      <guid>http://10.0.0.51:1313/tags/server/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
