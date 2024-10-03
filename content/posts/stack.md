@@ -1,6 +1,6 @@
 +++
 title = 'Self Hosting'
-date = 2024-08-29T10:57:05-07:00
+date = 2024-08-19T10:57:05-07:00
 tags = ['server','selfhosted']
 categories = ['server', 'selfhosted', 'unraid']
 +++
